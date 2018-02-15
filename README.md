@@ -1,4 +1,17 @@
-# Visaalert
+# d3radialStackv4
+
+
+Project  needs the d3-stack-radial package. Can be installed as follows : 
+	1. Unzip d3-sacle-radial
+	2. cd /path/to/d3radialStackv4
+	3. install-local /path/to/d3-scale-radial
+	4. If install-local not available run - npm install -g install-local
+
+To run project
+	1. npm install
+	2. ng serve --open
+
+D3 v4 Radial stack with Angualr 4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
 
